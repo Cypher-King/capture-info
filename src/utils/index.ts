@@ -2,8 +2,8 @@
 
 class ClientUtils {
     developers = [
-        "343777234982797318", // Dmytro Vishnevsky
-        "262583849438019589",  // Cypher King
+        "",
+        "", 
     ];
 
     disabled_guilds = [
